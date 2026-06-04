@@ -1,4 +1,4 @@
-[![The OS Simulation Project](../logo.png)](https://os.thomasluigi07.com/)
+[![The OS Simulation Project](../logo.png)](https://os.tamasina.com/)
 The OS Simulation Project is a project where we make Unity games (and used to make Roblox games) that simulates discontinued operating systems, while trying to be as accurate to the original as possible. This GitHub organisation is for our open-source projects.
 
 Our Roblox games are also open-source. They are however no longer available on the Roblox website as Xbox 360 Gui Test was taken down by Microsoft, and thus every other experience was taken down voluntarily. They can still be downloaded at our [Resources repository](https://github.com/ossimulation/resources) and the [Internet Archive](https://archive.org/details/ossimulation-rbxls).
